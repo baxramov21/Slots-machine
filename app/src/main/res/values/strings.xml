@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">slots</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_image_of_the_slot_combination">First image of the slot combination</string>
+    <string name="second_image_of_the_slot_combination">Second image of the slot combination</string>
+</resources>
